@@ -1,7 +1,9 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
+Only the main Sass file needs front matter (the dashes are enough)
 search: false
----
+
+--- 
 
 @charset "utf-8";
 
@@ -9,7 +11,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 //font import
-@import url('https://github.com/hbin/top-programming-fonts/blob/c8b0a2a5acbe6ba9296fed4c58215a71e9cf1ee2/Menlo-Regular.ttf');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 $serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
 $sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
