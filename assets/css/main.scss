@@ -9,7 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 //font import
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://github.com/hbin/top-programming-fonts/blob/c8b0a2a5acbe6ba9296fed4c58215a71e9cf1ee2/Menlo-Regular.ttf');
 
 $serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
 $sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -19,17 +19,17 @@ $header-font-family : $sans-serif-narrow;
 $caption-font-family: $serif !default;
 
 html {
-    font-size: 12px; // originally 16px
+    font-size: 14px; // originally 16px
     @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
+        font-size: 16px; // originally 18px
     }
 
     @include breakpoint($large) {
-        font-size: 16px; // originally 20px
+        font-size: 18px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 18px; // originally 22px
+        font-size: 20px; // originally 22px
     }
 }
 
