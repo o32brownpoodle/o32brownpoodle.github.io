@@ -15,10 +15,8 @@ docs:
   - title: "AI"
     children:
       - title: "python"
-        url: "ai/python/"
-        category: "python"
+        url: /ai/python/
   - title: "Math"
     children:
       - title: "statistics"
-        url: "math/stat/"
-        category: "statistics"
+        url: /math/statistics/
