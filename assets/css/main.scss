@@ -4,15 +4,14 @@
 @import "minimal-mistakes"; // main partials
 
 //font import
-// 폰트 import
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-$sans-serif-narrow  : "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-$global-font-family : $sans-serif-narrow; // 기본 폰트로 Open Sans 사용
-$header-font-family : $sans-serif-narrow; // 헤더 폰트로도 Open Sans 사용
-$caption-font-family: $sans-serif-narrow; // 캡션 폰트로도 Open Sans 사용
-
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+$caption-font-family: $serif !default;
 
 html {
     font-size: 14px; // originally 16px
