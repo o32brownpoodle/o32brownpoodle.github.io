@@ -14,9 +14,28 @@ main:
 docs:
   - title: "AI"
     children:
-      - title: "python"
+      - title: "Python"
         url: /ai/python/
+        category: python
+    children:
+      - title: "Data Structure"
+        url: /ai/data_structure/
+        category: data_structure
+    children:
+      - title: "Discrete Structure"
+        url: /ai/discrete_structure/
+        category: discrete_structure
+
   - title: "Math"
     children:
-      - title: "statistics"
+      - title: "Statistics"
         url: /math/statistics/
+        category : statistics
+    children:
+      - title: "Linear algebra"
+        url: /math/linear_algebra/
+        category: linear_algebra
+    children:
+      - title: "Probability"
+        url: /math/probability/
+        category: probability
