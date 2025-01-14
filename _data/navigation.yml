@@ -11,16 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
+docs:
   - title: "AI"
     children:
       - title: "python"
         url: "ai/python/"
-      - title: "data structure"
-        url: "ai/datast/"
-      - title: "project"
-        url: "ai/project/"
+        category: "python"
   - title: "Math"
     children:
       - title: "statistics"
         url: "math/stat/"
+        category: "statistics"
