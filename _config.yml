@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "o32brownpoodle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Don’t worry about being a late bloomer. Focus on blooming. - Tim Cook"
-  location         : "Seoul or Incheon, South Korea"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "MM"
+  location         : "Seoul/Incheon, South Korea"
   email            : 
   links:
     - label: "Email"
