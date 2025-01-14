@@ -1,5 +1,5 @@
 ---
-title: "python"
+title: "Python"
 layout: archive
 permalink: /ai/python/
 author_profile: true
