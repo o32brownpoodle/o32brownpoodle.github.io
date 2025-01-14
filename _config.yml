@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "o32BP DevLog"
+title                    : "o32BPLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "o32brownpoodle"
