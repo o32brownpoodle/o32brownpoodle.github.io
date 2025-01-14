@@ -10,3 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "AI"
+    children:
+      - title: "python"
+        url: "ai/python/"
+      - title: "data structure"
+        url: "ai/datast/"
+      - title: "project"
+        url: "ai/project/"
+  - title: "Math"
+    children:
+      - title: "statistics"
+        url: "math/stat/"
