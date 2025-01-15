@@ -21,7 +21,7 @@ title                    : "o32BP DevLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "o32brownpoodle"
-description              : "A junior student in the Department of Artificial Intelligence Engineering at Inha University, Incheon, South Korea."
+description              : "Develope dairy"
 url                      : "https://o32brownpoodle.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "o32brownpoodle/o32brownpoodle.github.io"
