@@ -8,14 +8,35 @@
     {% include head.html %}
     {% include head/custom.html %}
     <style> 
-      ::-webkit-scrollbar{width: 12px;}
-      ::-webkit-scrollbar-track {background-color:#4b4f52; border-radius: 12px;}
-      ::-webkit-scrollbar-thumb {background-color:#5e6265; border-radius: 12px;}
-      ::-webkit-scrollbar-thumb:hover {background: #68510d;}
-      ::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment 
-      {
-          width:10px;height:10px;background:transparent;
-      } 
+    ::-webkit-scrollbar {
+        width: 1px; /* 기본 너비를 1px로 설정 */
+    }
+
+    ::-webkit-scrollbar:hover {
+        width: 12px; /* 마우스를 올리면 12px로 확장 */
+    }
+
+    ::-webkit-scrollbar-track {
+        background-color: #f9df1b;
+        border-radius: 12px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: #b2a816;
+        border-radius: 12px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #57450e;
+    }
+
+    ::-webkit-scrollbar-button:start:decrement,
+    ::-webkit-scrollbar-button:end:increment {
+        width: 10px;
+        height: 10px;
+        background: transparent;
+    }
+
     </style>
   </head>
 
