@@ -47,6 +47,6 @@ docs:
         category : d_python
 
       - title: "Math Dictionary "
-        url: /dictionary/python/
+        url: /dictionary/math/
         category : d_math
 
