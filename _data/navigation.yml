@@ -39,3 +39,14 @@ docs:
       - title: "Probability "
         url: /math/probability/
         category: probability
+
+  - title: "Dictionary"
+    children:
+      - title: "Python Dictionary "
+        url: /dictionary/python/
+        category : d_python
+
+      - title: "Math Dictionary "
+        url: /dictionary/python/
+        category : d_math
+
