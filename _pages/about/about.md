@@ -6,7 +6,6 @@ last_modified_at: 2025-01-15
 toc: true
 ---
 
-# About me
 
 Name : Seuk Oh
 
