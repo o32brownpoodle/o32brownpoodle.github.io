@@ -32,7 +32,7 @@ docs:
         url: /math/statistics/
         category : statistics
 
-      - title: "Linear algebra "
+      - title: "Linear Algebra "
         url: /math/linear_algebra/
         category: linear_algebra
 
@@ -40,13 +40,13 @@ docs:
         url: /math/probability/
         category: probability
 
-  - title: "Dictionary"
+  - title: "Basic"
     children:
-      - title: "Python Dictionary "
-        url: /dictionary/python/
-        category : d_python
+      - title: "Basic Python "
+        url: /basic/python/
+        category : basic_python
 
-      - title: "Math Dictionary "
-        url: /dictionary/math/
-        category : d_math
+      - title: "Basic Math "
+        url: /basic/math/
+        category : basic_math
 

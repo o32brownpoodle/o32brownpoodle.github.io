@@ -1,12 +1,12 @@
 ---
-title: "Math Dictionary"
+title: "Basic Math"
 layout: archive
-permalink: /dictionary/math/
+permalink: /basic/math/
 author_profile: true
 types: posts
 ---
 
-{% assign posts = site.categories['d_math']%}
+{% assign posts = site.categories['basic_math']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
